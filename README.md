@@ -20,4 +20,4 @@ Please find the final snapshot that we were asked to take recording the pwd ; pu
 
 Thank you! 
 
-
+![Alt text](screenshot_hw_1_2.png)
