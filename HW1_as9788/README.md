@@ -1,5 +1,13 @@
 # PUI2017_as9788
 
+Assignment 1:Finish Lab 1 
+
+https://github.com/coffee1league/gittest_as9788
+
+https://github.com/coffee1league/gittest_rh2684
+
+Assignment 2:Setup Environment:
+
 For HW1_2 here are the steps that I took to setup the environment. 
 
 First, I had to create a new directory name "PUI2017" on my machine by using the mkdir PUI2017 command. 
