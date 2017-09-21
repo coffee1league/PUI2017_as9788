@@ -18,6 +18,10 @@ Finally, I ran the required pwd command (to show current working directory) then
 
 Please find the final snapshot that we were asked to take recording the pwd ; pui2017; pwd sequence below. 
 
-Thank you! 
+A second screenshot which shows the contents of .bashrc follows as well.
+
+ Thank you!  
 
 ![Alt text](screenshot_hw_1_2.png)
+![Alt text](screenshot_bashrc.png)
+
