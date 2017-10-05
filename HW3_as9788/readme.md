@@ -1,9 +1,11 @@
 
 This is a summary for Homework 3 comprising 3 assignments.
 
-As in the instructions, the Citibike project assignment was worked on in a group with Assel (AD4336).
+The first assignment was about following a skelleton notebook prepared for the assignment and reproducing probability distributions and mean plots for four additional distributions. I followed the steps in the notebook and looked up the documentation for the random dstribution functions for the different types on SciPy. Then I compared the distributions with my homework partner for this assignment. One of the graphs that seemed off in my notebook was the binomial distribution as the means looked like a stright increasing slope line rather than a somewhat bell shaped curve. 
 
-My contribution so far was in brainstorming various hypoethesis to test;  loading the data ; prepping the data in a data frame 
+The Citibike project assignment was worked on in a group with Assel (AD4336).
+
+My contribution so far was in brainstorming various hypoethesis to test;  loading the data ; prepping the data in a data frame, and dropping relevant columns. 
 
 The next steps are to count the total number of riders in each of the data sets for July 2016 and January 2016 and perform a statistical test to determine if July 2016 had greater than or equeal to the number of riders as the January 206 data set. 
 
