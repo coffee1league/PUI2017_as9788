@@ -1,6 +1,11 @@
 
 This is a summary for Homework 3 comprising 3 assignments.
 
+Update: In addition to the original idea of trying to see how the Winter citibike ride trips compared to the Summer citibike ride trips, I submitted a second ipython notebook exploring the idea of ratio of number of "subscribers" (long term cutomers) versus "customers" (short term customers) during the week vs the weekend. The two data sets that were used were were from January 2016 and July 2016. A z test was conducted on both counts and ratios. 
+
+
+
+
 The first assignment was about following a skelleton notebook prepared for the assignment and reproducing probability distributions and mean plots for four additional distributions. I followed the steps in the notebook and looked up the documentation for the random dstribution functions for the different types on SciPy. Then I compared the distributions with my homework partner for this assignment. One of the graphs that seemed off in my notebook was the binomial distribution as the means looked like a straight increasing slope line rather than a somewhat bell shaped curve. 
 
 The Citibike project assignment was worked on in a group with Assel (AD4336).
