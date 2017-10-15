@@ -1,0 +1,12 @@
+HW4
+Assignment 1 
+Review “Fangshulin/PUI2017_fl1210/Assignment_2.ipynb” notebook 
+
+Fangshu Lin created a notebook looking at older riders (age 40 or greater) as compared to younger riders during night-time hours. The idea was that fewer older riders would be riding during evening hours. 
+
+The following were reviewed: 
+
+1. The null hypothesis stated there would be greater than or equal to proportion of older riders than younger riders during night time hours as compared to the number during the entire day. The alternative hypothesis stated that there would be a greater proportion of younger night time riders than older night time riders over the number of total riders in the entire day. This looks to be correctly formulated.
+2. The data that was used specifically was the birth year and the date columns. A new column age was created based on the birth year. A couple of distributions including absolute counts, absolute counts with statistical errors and absolute counts normalized was displayed in frequency distributions. In the introduction, it stated that data from January 2015 was used however in the data import and the plot captions, it stated that March 2015 data were used.. so perhaps the introduction had some legacy descriptions from the instructor’s skeleton notebook. 
+
+3. The Z test seems to be appropriate as it will normalize the values and allow for a comparison between the two portion scores of older riders vs younger riders. Since there are two proportions that need to be evaluated, this resource suggests am approach for calculating the Z score when evaluating the difference between the two proportions: https://onlinecourses.science.psu.edu/stat500/node/55
