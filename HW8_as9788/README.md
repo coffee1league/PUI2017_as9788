@@ -24,4 +24,4 @@ and plotted using Carto here: https://as9788.carto.com/builder/32f70005-32ce-4e7
 
 [<img src="https://as9788.carto.com/builder/32f70005-32ce-4e75-8574-3e08a26e7a66">](https://as9788.carto.com/builder/32f70005-32ce-4e75-8574-3e08a26e7a66)
 
-![Plot](https://raw.githubusercontent.com/as9788/PUI2017_as9788/HW8_as9788/solar_nycha_data_map.png
+![Plot](https://raw.githubusercontent.com/as9788/PUI2017_as9788/HW8_as9788/solar_nycha_data_map.png)
