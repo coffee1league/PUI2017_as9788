@@ -3,7 +3,7 @@ For this assignment  I was asked to review the  plots made by nj935  contained h
 
 https://github.com/nj935/PUI2017_nj935/tree/master/HW8_nj935
 
-![image of env]( https://github.com/nj935/PUI2017_nj935/tree/master/HW8_nj935)
+![image of env]( https://github.com/nj935/PUI2017_nj935/tree/master/HW8_nj935.png)
 
 
  This plot visualized restaurant 
