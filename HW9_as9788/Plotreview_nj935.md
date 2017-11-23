@@ -15,5 +15,7 @@ catergorize poor sanitation scores by season as well types of food as this might
 However, the difficulty with reading pie charts in general is in comparing the seasons to one another visually given the different color schemes and the differences in slices to each other. Perhaps an alternative way to compare sanitation violation scores across different seasons is through a line graph ( each line could represent a type of food ), or through a histogram. The pie chart is clearly labeled however since the color coding changes in each pie chart to represent the highest to least porportion of the total, it may confuse a hurried reader as they may think that the color might correspond to types of cuisine. 
 
 The author additionally posted a histogram of raw score counts which made it easier to compare scores across the seasons.  Perhaps a fractional score or a percentage would have been a good way to standardize the comparison across time.  
+Second plot posted by the author for the same data: 
+![image of env](https://github.com/nj935/PUI2017_nj935/blob/master/HW8_nj935/restaurants_bar.png)
 
 
