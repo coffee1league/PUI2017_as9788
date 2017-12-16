@@ -21,3 +21,6 @@ Second plot posted by the author for the same data:
 ![image of env](https://github.com/nj935/PUI2017_nj935/blob/master/HW8_nj935/restaurants_bar.png)
 
 
+# FBB ok
+the chart is not color blind compliant. but since the labels are next to each pie slice this is not as crucial
+
